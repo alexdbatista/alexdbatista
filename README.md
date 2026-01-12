@@ -1,23 +1,23 @@
-## Hi there 👋 I am Dr. Alex Domingues Batista
+Hi 👋 I’m Alex Domingues Batista
 
-I am a PhD Chemist transitioning into Data Science. I combine deep scientific expertise with modern IT competencies to solve complex problems in the high-tech industry, specifically within Pharma and MedTech.
+I’m a PhD-trained scientist transitioning into **Applied Data Science**, with strong experience working with **sensor/measurement data**, data quality, validation, and statistical analysis. I’m currently completing a **full-time Data Science Bootcamp (WBS Coding School)** (expected completion: Mar 2026).
 
-- 🔭 **I’m currently working on**
-  Building a portfolio of Data Science projects that apply machine learning and statistical analysis to real-world datasets.
+### What I work on
+- **Time-series & sensor data**: noise, drift, variability, monitoring insights
+- **Statistical analysis & experimentation**: hypothesis testing, validation mindset
+- **Applied ML (practical & interpretable)**: baseline models, clustering, anomaly-style analyses
 
-- 🌱 **I’m currently learning**
-  I am completing an intensive Data Science Bootcamp at WBS CODING SCHOOL. My technical focus includes:
-  - **Languages & Tools:** Python, SQL, Tableau, Pandas.
-  - **Data Engineering:** Web Scraping, APIs, Cloud-based ETL Pipelines.
-  - **Analysis & AI:** A/B Testing, Supervised & Unsupervised Machine Learning, Generative AI.
+### Featured projects
+- **Time-Series Sensor Data Analysis (NASA Turbofan) 
+  - data quality & drift analysis, rolling features, baseline monitoring models
+- **Retail Customer Segmentation (RFM + K-Means)**
+  - validated segmentation, stability tests, actionable business playbook
 
-- 👯 **I’m looking to collaborate on**
-  Projects at the intersection of **Chemistry and Artificial Intelligence**. I am specifically interested in applying data science to process chemistry and R&D in the pharmaceutical industry.
+### Tech
+Python (pandas, NumPy, scikit-learn) • SQL • Jupyter • Git/GitHub • matplotlib/seaborn • Tableau (basic)
 
-- 💬 **Ask me about**
-  - Chemical Research & Digital Process Chemistry.
-  - Statistical Analysis of scientific data.
-  - How I bridge the gap between traditional science and modern AI frameworks.
+### Open to
+Applied Data Scientist / Data Analyst roles involving **real-world data** (sensor, experimental, operational) and cross-functional collaboration.
 
-- 📫 **How to reach me**
-  https://www.linkedin.com/in/alexdbatista/
+📫 LinkedIn: https://www.linkedin.com/in/alexdbatista/
+
