@@ -8,7 +8,7 @@ I’m a PhD-trained scientist transitioning into **Applied Data Science**, with 
 - **Applied ML (practical & interpretable)**: baseline models, clustering, anomaly-style analyses
 
 ### Featured projects
-- **Time-Series Sensor Data Analysis (NASA Turbofan) 
+- **Time-Series Sensor Data Analysis (NASA Turbofan)** 
   - data quality & drift analysis, rolling features, baseline monitoring models
 - **Retail Customer Segmentation (RFM + K-Means)**
   - validated segmentation, stability tests, actionable business playbook
