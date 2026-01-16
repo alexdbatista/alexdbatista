@@ -19,7 +19,7 @@
 
 Bringing domain expertise to solve complex data problems with ML solutions that actually work in production.
 
-**German Market Focus:** Predictive Maintenance (Predictive Maintenance) • Smart Factory (Industrie 4.0) • Sensor Analytics
+**German Market Focus:** Predictive Maintenance (Vorausschauende Wartung) • Smart Factory (Industrie 4.0) • Sensor Analytics
 
 ---
 
