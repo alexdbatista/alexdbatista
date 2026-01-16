@@ -1,83 +1,80 @@
 # Hi, I'm Alex Domingues Batista 👋
 
-**Analytical Chemist → Data Scientist**  
-10+ Years Research & Diagnostics | Applied ML for Pharma & Industrial Analytics
+**Applied Data Scientist (Sensor/Time-Series) | Diagnostics & Instrumentation Analytics**  
+PhD • 10+ years in measurement systems & experimental data • Python • SQL • ML
+
+I build **robust, interpretable models** for data that comes from the physical world — where **noise, drift, and validation** decide whether ML succeeds or fails.
 
 ---
 
-## 🎯 Quick Highlights
+## 🎯 Quick highlights
+- PhD + 10+ years working with **analytical instrumentation & diagnostics data** (LC–MS, GC–MS, HPLC, spectroscopy, sensors)
+- Research leadership experience in Germany (**Hahn-Schickard**, R&D team leadership)  
+- Strong “engineering reality” mindset: **data quality, drift monitoring, reproducibility, explainability**
 
-🔬 **50 Publications** (1,266 citations, h-index 18) | 📊 **Research Group Leader** (Hahn-Schickard, Germany) | 🎓 **Former Professor** (UFU, Brazil)
-
-**Core Strength:** I understand the physical systems behind the data (sensors, instruments, chemical processes)—enabling me to build more robust and interpretable ML models than typical data scientists.
-
----
-
-## 🔍 Currently Seeking
-
-**Applied Data Scientist / Data Scientist** roles in **Pharma • Diagnostics • Manufacturing • Industry 4.0 / IIoT**
-
-Bringing domain expertise to solve complex data problems with ML solutions that actually work in production.
-
-**German Market Focus:** Predictive Maintenance (Vorausschauende Wartung) • Smart Factory (Industrie 4.0) • Sensor Analytics
+**Differentiator:** I don’t just model data — I understand **how the data is generated**, how instruments drift, and how to validate results in real workflows.
 
 ---
 
-## 🔬 About Me
-
-I bridge the gap between analytical instrumentation and machine learning. After 10+ years managing diagnostic systems and experimental research (LC-MS, GC-MS, HPLC), I'm applying data science to solve real problems in pharma, manufacturing, and predictive maintenance.
-
-**What makes me different:** I don't just build models—I understand the data quality issues, sensor drift, and validation requirements that make ML projects succeed or fail in the physical world.
-
----
-
-## 🚀 Featured Projects
-
-### 🧬 [Metabolomics Biomarker Discovery](https://github.com/alexdbatista/data-science-portfolio/tree/main/metabolomics-biomarker-discovery)
-Machine learning for cachexia biomarker identification using LC-MS metabolomics data  
-**Tech:** Python, Scikit-Learn (Random Forest), SHAP | **Impact:** 95% accuracy, reduced validation pipeline from 63 to 10 candidates (84% time/cost savings)
-
-### ✈️ [NASA Turbofan Predictive Maintenance](https://github.com/alexdbatista/data-science-portfolio/tree/main/nasa-turbofan-predictive-maintenance)
-Predicting remaining useful life (RUL) of aircraft engines from sensor time-series  
-**Tech:** Python, Random Forest, Rolling Statistics | **Impact:** RMSE ~20 cycles, enables proactive maintenance scheduling
-
-### 🌫️ [Gas Sensor Drift Monitoring](https://github.com/alexdbatista/data-science-portfolio/tree/main/gas-sensor-drift-monitoring)
-Detecting and mitigating concept drift in chemical monitoring systems  
-**Tech:** Python, PCA, Drift Detection | **Impact:** Recovered model accuracy from 33% to 90% with adaptive retraining
-
-📁 **[View Full Portfolio →](https://github.com/alexdbatista/data-science-portfolio)**
+## 🔍 Currently seeking
+**Applied Data Scientist / Data Scientist / Product Analytics (data-heavy products)**  
+Focus: **Instrumentation • Diagnostics • Manufacturing • Industry 4.0 / IIoT**  
+Location: Germany (English-first teams) • German: B1
 
 ---
 
-## 🛠️ Technical Stack
+## 🚀 Featured projects (best entry points)
 
-**Languages & Tools:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### ✈️ NASA Turbofan Predictive Maintenance (RUL)
+Multivariate sensor time-series → Remaining Useful Life prediction + monitoring-ready outputs  
+**Focus:** leakage-safe evaluation, time-series feature engineering, interpretable baselines  
+Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/nasa-turbofan-predictive-maintenance
 
-**Machine Learning:** Random Forest, Gradient Boosting, SHAP, PCA, Time-Series Analysis  
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering  
-**Domain:** LC-MS, GC-MS, HPLC, Metabolomics, Chemometrics, Instrument Diagnostics  
-**Industry 4.0:** Predictive Maintenance, Sensor Drift Detection, Digital Twin Concepts, Smart Manufacturing
+### 🌫️ Gas Sensor Drift Monitoring & Calibration Transfer
+Concept drift on chemical sensors → quantify drift + evaluate adaptive retraining strategies  
+**Focus:** drift visualization, performance decay, practical monitoring/retraining policy  
+Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/gas-sensor-drift-monitoring
 
----
+### 🧬 LC–MS Metabolomics Biomarker Prioritization (Explainable ML)
+Diagnostics-style pipeline → preprocessing, feature selection, explainable modeling (SHAP)  
+**Focus:** QC mindset + interpretation for “what to validate next”  
+Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/metabolomics-biomarker-discovery
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexdbatista)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexdbatista@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://github.com/alexdbatista/data-science-portfolio)
-
-**Languages:** Portuguese (Native) | English (Fluent) | German (B1/Intermediate)
+📁 Full portfolio: https://github.com/alexdbatista/data-science-portfolio
 
 ---
 
-## 📈 GitHub Stats
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdbatista&show_icons=true&theme=default&hide_border=true)
+## 🛠️ Stack
+**Python:** pandas, numpy, scikit-learn, SHAP, matplotlib/seaborn  
+**Data:** SQL, data cleaning, feature engineering, validation-first workflows  
+**ML:** tree-based models, linear models, SVM, clustering, time-series feature engineering  
+**Workflow:** Git/GitHub, Jupyter, VS Code, Linux/Bash  
+**Domain:** sensors & instrumentation, chemometrics (PCA/PLS), assay data (LC–MS)
 
 ---
 
-💡 *"I don't just analyze data—I understand where it comes from and why it matters."*
+## ✅ What I can deliver in 30–60 days
+- A **data-quality + drift monitoring baseline** (alerts, dashboards/plots)
+- An **interpretable model** with clear evaluation and error analysis
+- A **decision-ready report/dashboard** for engineers or product teams
+
+---
+
+## 📫 Let’s connect
+LinkedIn: https://linkedin.com/in/alexdbatista  
+Email: alexdbatista@gmail.com  
+Portfolio: https://github.com/alexdbatista/data-science-portfolio
+
+Languages: Portuguese (native) • English (fluent) • German (B1)
+
+---
+
+<details>
+<summary>Academic credentials (optional)</summary>
+
+- 50 peer-reviewed publications | ~1,266 citations | h-index 18  
+- Humboldt Research Fellow (Ulm University)  
+- Former Professor (UFU, Brazil)  
+- Research Group Leader (Hahn-Schickard, Germany)
+
+</details>
