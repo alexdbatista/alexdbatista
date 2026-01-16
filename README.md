@@ -1,6 +1,6 @@
 # Hi, I'm Alex Domingues Batista 👋
 
-**Analytical Chemist → Data Scientist** 10+ years Research & Diagnostics | Transitioning to ML & Predictive Analytics
+**Analytical Chemist → Data Scientist** 10+ years Research & Diagnostics | Applied ML for Pharma & Industrial Analytics
 
 ---
 
@@ -15,7 +15,7 @@ I bridge the gap between analytical instrumentation and machine learning. After 
 ## 🚀 Featured Projects
 
 ### 🧬 [Metabolomics Biomarker Discovery](https://github.com/alexdbatista/data-science-portfolio/tree/main/metabolomics-biomarker-discovery)
-Machine learning for cachexia biomarker identification using HPLC metabolomics data  
+Machine learning for cachexia biomarker identification using LC-MS metabolomics data  
 **Tech:** Python, Scikit-Learn (Random Forest), SHAP | **Impact:** Accelerates biomarker validation candidates
 
 ### ✈️ [NASA Turbofan Predictive Maintenance](https://github.com/alexdbatista/data-science-portfolio/tree/main/nasa-turbofan-predictive-maintenance)
