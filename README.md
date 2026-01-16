@@ -15,9 +15,11 @@
 
 ## 🔍 Currently Seeking
 
-**Applied Data Scientist / Data Scientist** roles in **Pharma • Diagnostics • Manufacturing • Industrial IoT**
+**Applied Data Scientist / Data Scientist** roles in **Pharma • Diagnostics • Manufacturing • Industry 4.0 / IIoT**
 
 Bringing domain expertise to solve complex data problems with ML solutions that actually work in production.
+
+**German Market Focus:** Predictive Maintenance (Predictive Maintenance) • Smart Factory (Industrie 4.0) • Sensor Analytics
 
 ---
 
@@ -57,7 +59,8 @@ Detecting and mitigating concept drift in chemical monitoring systems
 
 **Machine Learning:** Random Forest, Gradient Boosting, SHAP, PCA, Time-Series Analysis  
 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering  
-**Domain:** LC-MS, GC-MS, HPLC, Metabolomics, Chemometrics, Instrument Diagnostics
+**Domain:** LC-MS, GC-MS, HPLC, Metabolomics, Chemometrics, Instrument Diagnostics  
+**Industry 4.0:** Predictive Maintenance, Sensor Drift Detection, Digital Twin Concepts, Smart Manufacturing
 
 ---
 
