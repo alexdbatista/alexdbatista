@@ -53,13 +53,6 @@ Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/metabolom
 
 ---
 
-## ✅ What I can deliver in 30–60 days
-- A **data-quality + drift monitoring baseline** (alerts, dashboards/plots)
-- An **interpretable model** with clear evaluation and error analysis
-- A **decision-ready report/dashboard** for engineers or product teams
-
----
-
 ## 📫 Let’s connect
 LinkedIn: https://linkedin.com/in/alexdbatista  
 Email: alexdbatista@gmail.com  
