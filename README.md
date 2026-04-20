@@ -1,73 +1,78 @@
-# Hi, I'm Alex Domingues Batista 👋
+# Alex Batista, PhD
 
-**Applied Data Scientist (Sensor/Time-Series) | Diagnostics & Instrumentation Analytics**  
-PhD • 10+ years in measurement systems & experimental data • Python • SQL • ML
+**Analytical Chemist | Scientific Data & AI | Chemistry, Biomarkers, and Research Workflows**
 
-I build **robust, interpretable models** for data that comes from the physical world — where **noise, drift, and validation** decide whether ML succeeds or fails.
+I am a PhD-trained analytical chemist with 10+ years of experience across scientific research, data analysis, and interdisciplinary innovation. My work sits at the intersection of **chemistry, scientific data, and AI-enabled workflows**, with a focus on building practical, interpretable solutions for research and decision-making.
 
----
+I am especially interested in roles and projects involving:
 
-## 🎯 Quick highlights
-- PhD + 10+ years working with **analytical instrumentation & diagnostics data** (LC–MS, GC–MS, HPLC, spectroscopy, sensors)
-- Research leadership experience in Germany (**Hahn-Schickard**, R&D team leadership)  
-- Strong “engineering reality” mindset: **data quality, drift monitoring, reproducibility, explainability**
+- chemistry intelligence and scientific information systems
+- biomarker discovery and translational data analysis
+- cheminformatics and molecular data workflows
+- AI/ML for scientific and healthcare applications
+- research data quality, interpretability, and reproducibility
 
-**Differentiator:** I don’t just model data — I understand **how the data is generated**, how instruments drift, and how to validate results in real workflows.
+## What I work on
 
----
+My recent projects focus on turning complex scientific data into usable insights, tools, and workflows.
 
-## 🔍 Currently seeking
-**Applied Data Scientist / Data Scientist / Product Analytics (data-heavy products)**  
-Focus: **Instrumentation • Diagnostics • Manufacturing • Industry 4.0 / IIoT**  
-Location: Germany (English-first teams) • German: B1
+### Featured Projects
 
----
+#### ToxPred Explainable
+Explainable AI workflow for molecular toxicity screening using cheminformatics and interpretable machine learning.
 
-## 🚀 Featured projects (best entry points)
+**Highlights**
+- molecular representations with RDKit
+- toxicity-related prediction workflows
+- explainability for scientific decision support
 
-### 🧪 ToxPred Explainable: ADMET Cheminformatics Pipeline
-End-to-end cheminformatics workflow predicting molecular properties (solubility, toxicity, BBB)  
-**Focus:** RDKit fingerprints, Random Forest, Lipinski validation, Streamlit UI  
-Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/toxpred-explainable
+#### Metabolomics Biomarker Discovery
+Interpretable machine learning workflow for LC–MS biomarker prioritization.
 
-### 🔬 QCL Breast Cancer Diagnostics: Spatial Deep Learning
-Automated pathology screening via label-free Mid-IR hyperspectral cubes  
-**Focus:** Out-of-core pipeline, U-Net spatial segmentation, Manifold learning (PCA+UMAP)  
-Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/qcl-breast-cancer-diagnostics
+**Highlights**
+- high-dimensional biological data analysis
+- feature selection and SHAP-based interpretation
+- support for downstream biomarker validation
 
-### 🧬 LC–MS Metabolomics Biomarker Prioritization (Explainable ML)
-Diagnostics-style pipeline → preprocessing, feature selection, explainable modeling (SHAP)  
-**Focus:** QC mindset + interpretation for “what to validate next”  
-Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/metabolomics-biomarker-discovery
+#### QCL Breast Cancer Diagnostics
+End-to-end AI workflow for breast cancer tissue classification using spectral imaging data.
 
-📁 Full portfolio: https://github.com/alexdbatista/data-science-portfolio
+**Highlights**
+- biomedical signal and imaging analysis
+- dimensionality reduction and segmentation
+- translation of analytical outputs into usable tools
 
----
+## Core Skills
 
-## 🛠️ Stack
-**Python:** pandas, numpy, scikit-learn, PyTorch, SHAP, RDKit, Streamlit  
-**Data:** SQL, data cleaning, feature engineering, validation-first workflows  
-**ML:** tree-based models, linear models, SVM, clustering, spatial deep learning  
-**Workflow:** Git/GitHub, Docker, PyTest, VS Code, Linux/Bash  
-**Domain:** sensors & instrumentation, chemometrics, assay data, physical chemistry
+**Scientific Data & Analytics**  
+Python, SQL, pandas, NumPy, scikit-learn, Jupyter, exploratory data analysis, statistical interpretation, reproducible workflows
 
----
+**Chemistry & Life Sciences**  
+Analytical chemistry, cheminformatics, RDKit, QSAR, molecular docking, biomarker-oriented analytics, molecular data interpretation
 
-## 📫 Let’s connect
-LinkedIn: https://www.linkedin.com/in/alexdbatista/  
-Email: alex.domin.batista@gmail.com  
-Portfolio: https://github.com/alexdbatista/data-science-portfolio
+**AI & Modeling**  
+Machine learning, explainable AI, model evaluation, workflow automation, scientific visualization, quality-focused analytics
 
-Languages: Portuguese (native) • English (fluent) • German (B1)
+**Research & Collaboration**  
+Scientific communication, interdisciplinary teamwork, stakeholder alignment, mentoring, project coordination, research translation
 
----
+## Background
 
-<details>
-<summary>Academic credentials (optional)</summary>
+- PhD in Analytical Chemistry  
+- Alexander von Humboldt Fellow  
+- Author of 50 peer-reviewed publications  
+- 1,266+ citations across scientific and technical contributions
 
-- 50 peer-reviewed publications | ~1,266 citations | h-index 18  
-- Humboldt Research Fellow (Ulm University)  
-- Former Professor (UFU, Brazil)  
-- Research Group Leader (Hahn-Schickard, Germany)
+## Why this GitHub
 
-</details>
+This GitHub is a focused portfolio of projects at the interface of:
+
+**scientific research + data analysis + AI-enabled problem solving**
+
+My goal is to build solutions that are not only technically strong, but also scientifically meaningful, interpretable, and useful in real research environments.
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/alexdbatista](https://linkedin.com/in/alexdbatista)
+- **GitHub Portfolio:** [github.com/alexdbatista](https://github.com/alexdbatista)
+- **Email:** alex.domin.batista@gmail.com
