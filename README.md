@@ -1,78 +1,73 @@
-# Alex Batista, PhD
+# Hi, I'm Alex Domingues Batista 👋
 
-**Analytical Chemist | Scientific Data & AI | Chemistry, Biomarkers, and Research Workflows**
+**Scientific Data Analyst | Chemistry Intelligence, Biomarker Analytics & AI-Driven Workflows**  
+PhD • 10+ years in analytical science, measurement systems, and experimental data • Python • SQL • ML
 
-I am a PhD-trained analytical chemist with 10+ years of experience across scientific research, data analysis, and interdisciplinary innovation. My work sits at the intersection of **chemistry, scientific data, and AI-enabled workflows**, with a focus on building practical, interpretable solutions for research and decision-making.
+I build robust, interpretable models for scientific and real-world data — especially where noise, drift, validation, and domain context determine whether machine learning is actually useful.
 
-I am especially interested in roles and projects involving:
+## Quick Highlights
 
-- chemistry intelligence and scientific information systems
-- biomarker discovery and translational data analysis
-- cheminformatics and molecular data workflows
-- AI/ML for scientific and healthcare applications
-- research data quality, interpretability, and reproducibility
+- PhD in Analytical Chemistry with 10+ years working with analytical instrumentation and scientific data
+- Experience with LC–MS, GC–MS, HPLC, spectroscopy, sensors, and diagnostics-related workflows
+- Research leadership experience in Germany, including interdisciplinary R&D coordination at Hahn-Schickard
+- Strong focus on data quality, reproducibility, explainability, and validation-first workflows
+- Differentiator: I do not just model data — I understand how the data is generated, how systems drift, and how results need to be validated in real workflows
 
-## What I work on
+## Currently Seeking
 
-My recent projects focus on turning complex scientific data into usable insights, tools, and workflows.
+Applied Data Scientist / Scientific Data Analyst / Product Analytics roles in data-heavy environments
 
-### Featured Projects
+**Focus areas:**  
+Instrumentation • Diagnostics • Scientific Software • Research Data • Manufacturing • Industry 4.0 / IIoT
 
-#### ToxPred Explainable
-Explainable AI workflow for molecular toxicity screening using cheminformatics and interpretable machine learning.
+**Location:** Germany (English-first teams)  
+**German:** B1
 
-**Highlights**
-- molecular representations with RDKit
-- toxicity-related prediction workflows
-- explainability for scientific decision support
+## Featured Projects
 
-#### Metabolomics Biomarker Discovery
-Interpretable machine learning workflow for LC–MS biomarker prioritization.
+### 🧪 ToxPred Explainable — ADMET Cheminformatics Pipeline
+End-to-end cheminformatics workflow for predicting molecular properties such as solubility, toxicity, and BBB penetration.
 
-**Highlights**
-- high-dimensional biological data analysis
-- feature selection and SHAP-based interpretation
-- support for downstream biomarker validation
+**Focus:** RDKit fingerprints, Random Forest, Lipinski validation, Streamlit UI  
+**Repo:** https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/toxpred-explainable
 
-#### QCL Breast Cancer Diagnostics
-End-to-end AI workflow for breast cancer tissue classification using spectral imaging data.
+### 🔬 QCL Breast Cancer Diagnostics — Spatial Deep Learning
+Automated pathology screening using label-free Mid-IR hyperspectral cubes.
 
-**Highlights**
-- biomedical signal and imaging analysis
-- dimensionality reduction and segmentation
-- translation of analytical outputs into usable tools
+**Focus:** Out-of-core pipeline, U-Net spatial segmentation, manifold learning (PCA + UMAP)  
+**Repo:** https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/qcl-breast-cancer-diagnostics
 
-## Core Skills
+### 🧬 LC–MS Metabolomics Biomarker Prioritization — Explainable ML
+Diagnostics-style workflow for preprocessing, feature selection, and interpretable modeling to support biomarker prioritization.
 
-**Scientific Data & Analytics**  
-Python, SQL, pandas, NumPy, scikit-learn, Jupyter, exploratory data analysis, statistical interpretation, reproducible workflows
+**Focus:** QC mindset, explainable ML, scientific interpretation, “what to validate next”  
+**Repo:** https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/metabolomics-biomarker-discovery
 
-**Chemistry & Life Sciences**  
-Analytical chemistry, cheminformatics, RDKit, QSAR, molecular docking, biomarker-oriented analytics, molecular data interpretation
+## Full Portfolio
 
-**AI & Modeling**  
-Machine learning, explainable AI, model evaluation, workflow automation, scientific visualization, quality-focused analytics
+https://github.com/alexdbatista/data-science-portfolio
 
-**Research & Collaboration**  
-Scientific communication, interdisciplinary teamwork, stakeholder alignment, mentoring, project coordination, research translation
+## Tech Stack
 
-## Background
-
-- PhD in Analytical Chemistry  
-- Alexander von Humboldt Fellow  
-- Author of 50 peer-reviewed publications  
-- 1,266+ citations across scientific and technical contributions
-
-## Why this GitHub
-
-This GitHub is a focused portfolio of projects at the interface of:
-
-**scientific research + data analysis + AI-enabled problem solving**
-
-My goal is to build solutions that are not only technically strong, but also scientifically meaningful, interpretable, and useful in real research environments.
+**Python:** pandas, numpy, scikit-learn, PyTorch, SHAP, RDKit, Streamlit  
+**Data:** SQL, data cleaning, feature engineering, validation-first workflows  
+**ML:** tree-based models, linear models, SVM, clustering, spatial deep learning  
+**Workflow:** Git/GitHub, Docker, PyTest, VS Code, Linux/Bash  
+**Domain:** sensors and instrumentation, chemometrics, assay data, analytical chemistry, physical-world measurement systems
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/alexdbatista](https://linkedin.com/in/alexdbatista)
-- **GitHub Portfolio:** [github.com/alexdbatista](https://github.com/alexdbatista)
-- **Email:** alex.domin.batista@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/alexdbatista/  
+**Email:** alex.domin.batista@gmail.com  
+**Portfolio:** https://github.com/alexdbatista/data-science-portfolio
+
+**Languages:** Portuguese (native) • English (fluent) • German (B1)
+
+## Academic Credentials
+
+- 50 peer-reviewed publications
+- ~1,266 citations
+- h-index 18
+- Humboldt Research Fellow (Ulm University)
+- Former Professor (UFU, Brazil)
+- Research Group Leader (Hahn-Schickard, Germany)
