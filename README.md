@@ -25,37 +25,37 @@ Location: Germany (English-first teams) • German: B1
 
 ## 🚀 Featured projects (best entry points)
 
-### ✈️ NASA Turbofan Predictive Maintenance (RUL)
-Multivariate sensor time-series → Remaining Useful Life prediction + monitoring-ready outputs  
-**Focus:** leakage-safe evaluation, time-series feature engineering, interpretable baselines  
-Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/nasa-turbofan-predictive-maintenance
+### 🧪 ToxPred Explainable: ADMET Cheminformatics Pipeline
+End-to-end cheminformatics workflow predicting molecular properties (solubility, toxicity, BBB)  
+**Focus:** RDKit fingerprints, Random Forest, Lipinski validation, Streamlit UI  
+Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/toxpred-explainable
 
-### 🌫️ Gas Sensor Drift Monitoring & Calibration Transfer
-Concept drift on chemical sensors → quantify drift + evaluate adaptive retraining strategies  
-**Focus:** drift visualization, performance decay, practical monitoring/retraining policy  
-Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/gas-sensor-drift-monitoring
+### 🔬 QCL Breast Cancer Diagnostics: Spatial Deep Learning
+Automated pathology screening via label-free Mid-IR hyperspectral cubes  
+**Focus:** Out-of-core pipeline, U-Net spatial segmentation, Manifold learning (PCA+UMAP)  
+Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/qcl-breast-cancer-diagnostics
 
 ### 🧬 LC–MS Metabolomics Biomarker Prioritization (Explainable ML)
 Diagnostics-style pipeline → preprocessing, feature selection, explainable modeling (SHAP)  
 **Focus:** QC mindset + interpretation for “what to validate next”  
-Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/metabolomics-biomarker-discovery
+Repo: https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/metabolomics-biomarker-discovery
 
 📁 Full portfolio: https://github.com/alexdbatista/data-science-portfolio
 
 ---
 
 ## 🛠️ Stack
-**Python:** pandas, numpy, scikit-learn, SHAP, matplotlib/seaborn  
+**Python:** pandas, numpy, scikit-learn, PyTorch, SHAP, RDKit, Streamlit  
 **Data:** SQL, data cleaning, feature engineering, validation-first workflows  
-**ML:** tree-based models, linear models, SVM, clustering, time-series feature engineering  
-**Workflow:** Git/GitHub, Jupyter, VS Code, Linux/Bash  
-**Domain:** sensors & instrumentation, chemometrics (PCA/PLS), assay data (LC–MS)
+**ML:** tree-based models, linear models, SVM, clustering, spatial deep learning  
+**Workflow:** Git/GitHub, Docker, PyTest, VS Code, Linux/Bash  
+**Domain:** sensors & instrumentation, chemometrics, assay data, physical chemistry
 
 ---
 
 ## 📫 Let’s connect
-LinkedIn: https://linkedin.com/in/alexdbatista  
-Email: alexdbatista@gmail.com  
+LinkedIn: https://www.linkedin.com/in/alexdbatista/  
+Email: alex.domin.batista@gmail.com  
 Portfolio: https://github.com/alexdbatista/data-science-portfolio
 
 Languages: Portuguese (native) • English (fluent) • German (B1)
