@@ -26,9 +26,10 @@ Instrumentation • Diagnostics • Scientific Software • Research Data • Ma
 ## Featured Projects
 
 ### 🧪 ToxPred Explainable — ADMET Cheminformatics Pipeline
-End-to-end cheminformatics workflow for predicting molecular properties such as solubility, toxicity, and BBB penetration.
+Predicts aqueous solubility, clinical toxicity and blood–brain barrier penetration from SMILES, evaluated on scaffold splits against linear baselines.
 
-**Focus:** RDKit fingerprints, Random Forest, Lipinski validation, Streamlit UI  
+**Results (5-fold scaffold CV):** solubility R² 0.82, ClinTox ROC-AUC 0.84, BBBP ROC-AUC 0.90  
+**Focus:** RDKit fingerprints and descriptors, Random Forest, Lipinski validation, Streamlit UI  
 **Repo:** https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/toxpred-explainable
 
 ### 🔬 QCL Breast Cancer Diagnostics — Spatial Deep Learning
@@ -37,8 +38,8 @@ Automated pathology screening using label-free Mid-IR hyperspectral cubes.
 **Focus:** Out-of-core pipeline, U-Net spatial segmentation, manifold learning (PCA + UMAP)  
 **Repo:** https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/qcl-breast-cancer-diagnostics
 
-### 🧬 LC–MS Metabolomics Biomarker Prioritization — Explainable ML
-Diagnostics-style workflow for preprocessing, feature selection, and interpretable modeling to support biomarker prioritization.
+### 🧬 Urinary Metabolomics Biomarkers (Cancer Cachexia) — Explainable ML
+Biomarker prioritisation on real ¹H-NMR urine data from 77 cancer patients, with nested cross-validation, SHAP, and a dilution (PQN) check that cuts 54 "significant" metabolites down to 2.
 
 **Focus:** QC mindset, explainable ML, scientific interpretation, “what to validate next”  
 **Repo:** https://github.com/alexdbatista/data-science-portfolio/tree/main/featured/metabolomics-biomarker-discovery
